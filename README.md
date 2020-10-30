@@ -1,12 +1,12 @@
-# this quiz website
+# this places and friends website
 
 this is react website with node and mongoDB
 
 # product description
 
-Home landing page
-
 to enter the website you must register first
+You can add your places and share it with your friends
+Your Friends can give comments, feed pack and rate it within 5 stars
 
 ## the idea of the program
 
